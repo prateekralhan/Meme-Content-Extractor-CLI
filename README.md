@@ -1,4 +1,4 @@
-# Meme Content Extractor CLI 
+# Meme Content Extractor CLI ⚙🛠
 
 A simple CLI to extract textual content from memes! 😜😉
 
